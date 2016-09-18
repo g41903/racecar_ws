@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/racecar_ws/install
+
+Name: monte_carlo_localization
+Description: Description of monte_carlo_localization
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/racecar_ws/install/lib 
+Requires: 

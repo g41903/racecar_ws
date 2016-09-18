@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package>
+  <name>mit_maps</name>
+  <version>0.0.0</version>
+  <description>A collection of maps from around MIT</description>
+
+  <maintainer email="racecar@todo.todo">racecar</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

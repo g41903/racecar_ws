@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/racecar_ws/install/setup.sh

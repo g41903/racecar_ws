@@ -1,0 +1,2 @@
+apriltags:racecar/ackermann_cmd_mux:racecar/lab5:racecar/lab6:racecar/mit_maps:racecar/monte_carlo_localization:racecar/racecar:racecar/reflexive_control:racecar/rospyext:racecar/visual_servoing:racecar_simulator/racecar_control:racecar_simulator/racecar_description:racecar_simulator/racecar_simulator:vesc/vesc:vesc/vesc_ackermann:vesc/vesc_driver:vesc/vesc_msgs:zed-ros-wrapper
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/racecar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/racecar_ws/install -G Unix Makefiles
